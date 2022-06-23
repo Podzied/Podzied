@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-[<img align="left" width="400" src="https://github-readme-stats.vercel.app/api?username=86V&theme=dracula&count_private=true"/>](https://github.com/Podzied/)
-[<img align="left" width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Podzied&theme=dracula&count_private=true"/>](https://github.com/Podzied/)
+[<img align="left" width="400" src="https://github-readme-stats.vercel.app/api?username=Podzied&theme=onedark&count_private=true"/>](https://github.com/Podzied/)
+[<img align="left" width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Podzied&theme=onedark&count_private=true"/>](https://github.com/Podzied/)
 \
 \
 \
