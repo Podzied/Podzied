@@ -1,9 +1,5 @@
 ### Welcome to my GitHub! 👋
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Podzied&theme=tokyonight&count_private=true" alt="Top Languages" width="400" />
-</p>
-
 ### Development Platforms 🖥
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Windows 10](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
